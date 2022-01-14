@@ -26,6 +26,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "cross-env": "^7.0.3",
     "html-webpack-plugin": "^3.2.0",
+    "jest": "^27.4.7",
     "typescript": "^3.3.3333",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
